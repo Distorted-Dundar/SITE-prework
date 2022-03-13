@@ -39,8 +39,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-"/SITEprework.gif"
-![]('/SITEprework.gif')
+<img src="/SITEprework.gif" width=250><br>
+
+![]('')
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
