@@ -42,14 +42,9 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <br>
-<img src="/SITEprework.gif" width=800><br>
-## You built this with Glitch!
+<img src="https://github.com/Distorted-Dundar/SITE-prework/blob/05464d0aa91505fd8f85fd3953e67975b2ef45e7/SITEprework.gif" width=800><br>
 
-![]('')
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
