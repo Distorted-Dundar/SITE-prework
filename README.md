@@ -59,10 +59,10 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 - How to properly navigate and use GitHub. I also am curious how big sites like YouTube are able to store information or how recomendations occur. It makes me wonder if such algorithims take a lot of computer resources. Another thing I wonder is how to make a user enjoy your website. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-- Making the user select the type of sound they can choose
-- Creating a melody they already know although this may be dificult as you would need 12 musical notes
+- Making the user select the type of sound they can choose.
+- Creating a melody they already know although this may be dificult as you would need 12 musical notes.
 - Trying to center the buttons despite changing the broswers display, I researched but I still dont know how to dynamically resize my buttons.
-
+- Keeping a high score based on completion or fail I'm not sure how to store the count if the user where to refresh.
 
 
 ## Interview Recording URL Link
