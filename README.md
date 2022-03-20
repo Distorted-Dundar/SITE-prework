@@ -6,7 +6,7 @@
 Submitted by: **Brian Flores**
 
 
-Time spent: **3** hours spent in total
+Time spent: **5** hours spent in total
 
 Link to project: https://site-pre-work.glitch.me/
 
