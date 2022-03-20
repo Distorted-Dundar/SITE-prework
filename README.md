@@ -61,6 +61,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 - Making the user select the type of sound they can choose
 - Creating a melody they already know although this may be dificult as you would need 12 musical notes
+- Trying to center the buttons despite changing the broswers display, I researched but I still dont know how to dynamically resize my buttons.
 
 
 
