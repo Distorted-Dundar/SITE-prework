@@ -48,16 +48,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+- Using the videos provided by CodePath's prework site.
+-  https://www.youtube.com/watch?v=PvUexC0-D2s
+-  https://www.youtube.com/watch?v=aWJFbtrgW4E
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+- One of the challenges that I faced was learning how to use Glitch. At first it seemed overwhelming since I only ever coded to solve word problems. Luckily I had some experience with HTML so I was not that behind. I learned about using functions and firing function events through the prework which was different since I only previously worked on making a static site. One thing I really need to improve on would be to get comfortable with GitHub since I only just know the basics.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+- How to properly navigate and use GitHub. I also am curious how big sites like YouTube are able to store information or how recomendations occur. It makes me wonder if such algorithims take a lot of computer resources. Another thing I wonder is how to make a user enjoy your website. 
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+- Making the user select the type of sound they can choose
+- Creating a melody they already know although this may be dificult as you would need 12 musical notes
 
 
 
